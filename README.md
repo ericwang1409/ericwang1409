@@ -1,6 +1,10 @@
 ## Hi there 👋, I'm Eric Wang.
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwang1409)](https://github.com/anuraghazra/github-readme-stats)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericwang1409&show_icons=true&theme=dark&hide_border=true)
+
+![Eric's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=ericwang1409&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ericwang1409)
 
 <!--
 **ericwang1409/ericwang1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
