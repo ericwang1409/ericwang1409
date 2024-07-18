@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Eric Wang.
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwang1409)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ericwang1409/ericwang1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
